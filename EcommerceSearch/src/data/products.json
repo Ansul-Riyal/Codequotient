@@ -1,0 +1,77 @@
+[
+  {
+    "title": "Organic Avocado",
+    "price": 150,
+    "category": "food"
+  },
+  {
+    "title": "Men's Casual Shirt",
+    "price": 300,
+    "category": "clothes"
+  },
+  {
+    "title": "Bluetooth Headphones",
+    "price": 200,
+    "category": "electronics"
+  },
+  {
+    "title": "Stainless Steel Water Bottle",
+    "price": 120,
+    "category": "accessories"
+  },
+  {
+    "title": "Women's Running Shoes",
+    "price": 450,
+    "category": "shoes"
+  },
+  {
+    "title": "Organic Quinoa",
+    "price": 180,
+    "category": "food"
+  },
+  {
+    "title": "Leather Wallet",
+    "price": 250,
+    "category": "accessories"
+  },
+  {
+    "title": "Cotton T-Shirt",
+    "price": 100,
+    "category": "apparel"
+  },
+  {
+    "title": "Sunglasses",
+    "price": 180,
+    "category": "eyewear"
+  },
+  {
+    "title": "Healthy Granola Bars",
+    "price": 120,
+    "category": "snacks"
+  },
+  {
+    "title": "Women's Winter Jacket",
+    "price": 500,
+    "category": "outerwear"
+  },
+  {
+    "title": "Smartphone Case",
+    "price": 150,
+    "category": "accessories"
+  },
+  {
+    "title": "Fresh Apples",
+    "price": 130,
+    "category": "food"
+  },
+  {
+    "title": "Men's Formal Shoes",
+    "price": 550,
+    "category": "footwear"
+  },
+  {
+    "title": "Designer Watch",
+    "price": 600,
+    "category": "accessories"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Organic Milk",
+    "price": 120,
+    "category": "food"
+  },
+  {
+    "title": "Men's Jeans",
+    "price": 350,
+    "category": "others"
+  },
+  {
+    "title": "Wireless Mouse",
+    "price": 180,
+    "category": "others"
+  },
+  {
+    "title": "Stainless Steel Water Bottle",
+    "price": 100,
+    "category": "others"
+  },
+  {
+    "title": "Fresh Fruit Basket",
+    "price": 200,
+    "category": "food"
+  },
+  {
+    "title": "Leather Wallet",
+    "price": 250,
+    "category": "others"
+  },
+  {
+    "title": "Cotton T-Shirt",
+    "price": 80,
+    "category": "others"
+  },
+  {
+    "title": "Designer Sunglasses",
+    "price": 280,
+    "category": "others"
+  },
+  {
+    "title": "Healthy Snack Bars",
+    "price": 150,
+    "category": "food"
+  },
+  {
+    "title": "Women's Winter Coat",
+    "price": 500,
+    "category": "others"
+  },
+  {
+    "title": "Smartphone Case",
+    "price": 90,
+    "category": "others"
+  },
+  {
+    "title": "Fresh Vegetables Bundle",
+    "price": 180,
+    "category": "food"
+  }
+]
